@@ -1,0 +1,16 @@
+{
+  "name": "pritishvaidya.xyz",
+  "version": "1.0.0",
+  "description": "Netlify URLs Shortner",
+  "main": "index.js",
+  "repository": "https://github.com/pritishvaidya/pritishvaidya.xyz.git",
+  "author": "Pritish <pritishvaidya94@gmail.com>",
+  "license": "GNU",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "homepage": "https://pritishvaidya.xyz",
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  }
+}
