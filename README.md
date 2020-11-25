@@ -3,7 +3,7 @@ Netlify Shortner for important URLs
 
 ### Links
 - [`pritishvaidya.xyz`](https://pritishvaidya.xyz) | [`pritishvaidya.xyz/stackoverflow`](https://pritishvaidya.xyz/stackoverflow) - My developer's Story on StackOverflow
-- [`pritishvaidya.xyz/linkedin`](https://pritishvaidya.xyz/linkedin) - My LinkedIn Profile
+- [`pritishvaidya.xyz/github`](https://pritishvaidya.xyz/github) - My GitHub Profile
 - [`pritishvaidya.xyz/medium`](https://pritishvaidya.xyz/medium) - My Medium Profile
 - [`pritishvaidya.xyz/linkedin`](https://pritishvaidya.xyz/linkedin) - My LinkedIn Profile
 - [`pritishvaidya.xyz/steam`](https://pritishvaidya.xyz/steam) - My Steam Profile
