@@ -2,7 +2,9 @@
 Netlify Shortner for important URLs
 
 ### Links
-- [`pritishvaidya.xyz`](https://pritishvaidya.xyz) | [`pritishvaidya.xyz/stackoverflow`](https://pritishvaidya.xyz/stackoverflow) - My developer's Story on StackOverflow
+- [`pritishvaidya.xyz`](https://pritishvaidya.xyz) - My Website
+- [`pritishvaidya.xyz/blog`](https://pritishvaidya.xyz/blog) - My Blog
+- [`pritishvaidya.xyz/stackoverflow`](https://pritishvaidya.xyz/stackoverflow) - My developer's Story on StackOverflow
 - [`pritishvaidya.xyz/calendly`](https://pritishvaidya.xyz/calendly) - My Calendly Schedule
 - [`pritishvaidya.xyz/github`](https://pritishvaidya.xyz/github) - My GitHub Profile
 - [`pritishvaidya.xyz/medium`](https://pritishvaidya.xyz/medium) - My Medium Profile
