@@ -3,12 +3,14 @@ Netlify Shortner for important URLs
 
 ### Links
 - [`pritishvaidya.xyz`](https://pritishvaidya.xyz) - My Website
+- [`pritishvaidya.xyz/angellist`](https://pritishvaidya.xyz/angellist) - My AngelList Profile
 - [`pritishvaidya.xyz/blog`](https://pritishvaidya.xyz/blog) - My Blog
 - [`pritishvaidya.xyz/stackoverflow`](https://pritishvaidya.xyz/stackoverflow) - My developer's Story on StackOverflow
 - [`pritishvaidya.xyz/calendly`](https://pritishvaidya.xyz/calendly) - My Calendly Schedule
 - [`pritishvaidya.xyz/github`](https://pritishvaidya.xyz/github) - My GitHub Profile
 - [`pritishvaidya.xyz/medium`](https://pritishvaidya.xyz/medium) - My Medium Profile
 - [`pritishvaidya.xyz/linkedin`](https://pritishvaidya.xyz/linkedin) - My LinkedIn Profile
+- [`pritishvaidya.xyz/resume`](https://pritishvaidya.xyz/resume) - My Resume
 - [`pritishvaidya.xyz/steam`](https://pritishvaidya.xyz/steam) - My Steam Profile
 - [`pritishvaidya.xyz/youtube`](https://pritishvaidya.xyz/youtube) - My Youtube Gaming Channel
 
